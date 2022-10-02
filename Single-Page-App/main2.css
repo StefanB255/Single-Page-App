@@ -1,0 +1,17 @@
+#add-account-view{
+    display: none;
+}
+#edit-account-view{
+    display: none;
+}
+.slider{
+    width: 600px;
+    height: 300px;
+    margin:  50px auto;
+    box-shadow: 0 0 8px;
+    text-align: center;
+}
+.slider img {
+    width: 600px;
+    height: 300px;
+}
